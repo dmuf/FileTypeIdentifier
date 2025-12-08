@@ -63,6 +63,3 @@ A desktop tool for identifying potentially dangerous or high-risk file types usi
 This tool does **not execute or modify files**. It is strictly a static analysis utility for educational and ethical use only.
 
 ```
-
-If you want, I can also make a **matching `requirements.txt` and folder structure diagram** so your GitHub repo is fully ready for anyone to clone and run. Do you want me to do that next?
-```
