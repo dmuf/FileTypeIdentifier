@@ -60,6 +60,6 @@ A desktop tool for identifying potentially dangerous or high-risk file types usi
 
 This tool does **not execute or modify files**. It is strictly a static analysis utility for educational and ethical use only.
 
-```
+
 
 
