@@ -47,10 +47,17 @@ A desktop tool for identifying potentially dangerous or high-risk file types usi
 
 ---
 
+## Demo
+
+
+<video>https://github.com/user-attachments/assets/0baa2cde-665f-4510-8e7c-5e63b9e2825d<video\>
+
+
+
 ## In the Future 🔮
 
 ❌ Expand signature database for more file types
-❌ Add VirusTotal Scan
+✅ Add VirusTotal Scan
 ❌ Option to export scan reports
 ❌ Improve GUI with more interactive elements
 
@@ -59,6 +66,7 @@ A desktop tool for identifying potentially dangerous or high-risk file types usi
 ## Notes
 
 This tool does **not execute or modify files**. It is strictly a static analysis utility for educational and ethical use only.
+
 
 
 
